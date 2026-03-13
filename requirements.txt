@@ -1,0 +1,31 @@
+Objectives - Introduce variables, arithmetic operators, assignment operators, comments, and print
+
+80% - B
+
+    Create a multi-line comment at the top of the file that includes author, date, and purpose
+    Create two variables and assign them numbers
+    Do the following arithmetic operators on those variables and print out the result. 
+    +, -, , /, %, **, //
+    Add a comment above each line of code with an arithmetic operation explaining what it will do
+
+
+90% - A
+
+    Create a variable and enter a whole number between 2 and 9
+    Multiply the variable by 2
+    Add 5 to the variable
+    Multiply the variable by 50
+    Add 1775 (if birthday has not happened yet) or 1776 (if birthday has happened) to the variable
+    Subtract year you were born from the variable
+    Mod the variable by 100
+    Print variable (should be your age)
+
+
+100% - A+ - On your own
+
+    Go back and print out each step of the algorithm above and its result (you will have to concatenate strings)
+        One of the outputs might look like this:  2 6 = 12
+        The output must include arithmetic operator and the variables so that output will change as variable changes
+
+
+Do all of these steps in 1 python file. Submit it when finished.
