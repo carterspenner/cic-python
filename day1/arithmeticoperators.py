@@ -22,7 +22,7 @@ print(f"Exponentiation: {num1 ** num2}")
 #Returns the floor of the division of num1 by num2
 print(f"Floor Division: {num1 // num2}")
 
-#Unsure if "enter a whole number between 2 and 9" means use input() or just assign a variable, so I will do both.
+#Unsure if "enter a whole number between 2 and 9" means use input() or just assign a variable, so I will just ask the user.
 
 num3 = int(float(input("Enter a whole number between 2 and 9: ")) // 1)  #Using input and floor division to get a whole number.
 print(f"You entered: {num3}")
