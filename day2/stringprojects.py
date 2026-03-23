@@ -1,6 +1,8 @@
-#Author: Carter Spenner
-#Date: 3/23/2026
-#Purpose: to practice using strings and inputs
+"""
+Author: Carter Spenner
+Date: 3/23/2026
+Purpose: to practice using strings and inputs
+"""
 
 print("----Chatbot----\n")
 name = str(input("What is your name?:\n"))
