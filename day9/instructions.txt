@@ -1,0 +1,25 @@
+Objective: Utilize the match statement and Datetime object in Python
+
+80% - B
+
+    Ask the user to enter a month (1-12) and year. Use a while loop to ensure the month is between 1 and 12.
+    Make a Datetime object using this data. You may assume that the day is always the 1st of the month.
+    Use a match statement to determine how many days are in the month provided. Consider having a default case for the months that are 31 days long.
+    Print to the user how many days are in the month, utilizing strftime()
+    i.e. "There are 31 days in October"
+
+90% - A
+
+    Write a function that takes a year as a parameter and returns true if that year is a leap year, false otherwise.
+        A leap year is divisible by 4, unless it is divisible by 100 then it must also be divisible by 400. For example, the year 2000 is a leap year but the year 1900 is not.
+    Using "If guards", add another case for February if the year entered is a leap year. February has 29 days in a leap year.
+    Print to the user if the year entered is a leap year.
+    i.e. "The year 2026 is not a leap year"
+
+100% - A+
+
+    Make a Datetime object that is your birthday. Make another Datetime object that represents right now.
+    Subtract your birthday from the current time and store it in a variable. This represents a timedelta object. Use this object to determine how many seconds you have been alive.
+    Use the birthday datetime object to find out what day you were born on.
+    Utilize strftime() to print what day you were born on and how many seconds you've been alive.
+    i.e. "I was born on a Friday and am 1234567 seconds old"

@@ -1,0 +1,22 @@
+Objective: Implement use of while loops
+80% - B
+
+    Take a number input from the user
+    Using a while loop, print out "While loop" that many times
+
+
+90% - A (must also do the above)
+
+    Print out the simulation of 2 dice rolling (1 - 6)
+    After each roll, ask the user if they would like to roll again
+    Roll again or quit based upon user's input
+
+
+100% - A+ (must also do the above)
+
+    Take 2 input numbers from the user
+    Use a while loop to count up from the smaller number to the bigger number
+    Print all numbers out 
+
+
+Do all in one python file

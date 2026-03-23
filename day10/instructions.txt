@@ -1,0 +1,18 @@
+Objective: Learn how to read and write files using Python
+
+Download this file and do the following:
+
+80% - B
+
+    Count how many words are in the file and print this to the console.
+    Count how many lines are in the file and print this to the console.
+
+90% - A
+
+    Count how many characters (excluding white space) are in the file and print this to the console.
+    Find the average words per line and print this to the console.
+
+100% - A+
+
+    Find the 3 most common words in the file and print this to the console.
+    Write all of the file statistics computed above to a file called "output.txt"

@@ -1,6 +1,6 @@
 """
 Author: Carter Spenner
-Date: 3/23/2026
+Date: 3/23/2026 (yes I know it's earlier than we got this assigned)
 Purpose: to practice using strings and inputs
 """
 

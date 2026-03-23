@@ -1,0 +1,34 @@
+Objective: Learn to use the python dictionary
+
+Morse Code Library
+
+Only letters need to be encoded. You can ignore numbers and punctuation.
+
+80% - B
+
+Create a program that:
+
+    Stores all Morse Code values into a dictionary
+    Prints the translation of a letter in Morse Code using the dictionary
+    Example: "P"
+    Output example: ".--."
+
+90% - A
+
+Create a program that:
+
+    Stores all Morse Code values into a dictionary
+    Prints the translation of a predefined word in Morse Code using the dictionary
+    Example: "Python Rocks"
+    Output example: ".--. -.-- - .... --- -. / .-. --- -.-. -.- ..."
+
+
+100% - A+
+
+Create a program that:
+
+    Stores all Morse Code values into a dictionary
+    Prints the translation of a user input word in Morse Code using the dictionary
+    Input example: "Python Rocks"
+    Output example: ".--. -.-- - .... --- -. / .-. --- -.-. -.- ..."
+    Note: Program shouldn't break on lower or upper case letters

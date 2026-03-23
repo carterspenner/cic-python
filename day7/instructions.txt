@@ -1,0 +1,29 @@
+Objective: Implement use of for loops and the turtle module
+80% - B
+
+    Import turtle module
+    Use all 4 directions (forward, backward, left, right)
+    Use circle
+    Use goto
+    Use penup and pendown
+    Change the size and color of the pen (so that it is not default black)
+    Use a for loop to repeat a pattern
+
+
+90% - A (must also do 80%)
+
+    Incorporate a fill
+    Use more than 1 color in your program
+    Change the speed of the turtle
+    Use a second for loop 
+
+
+100% - A+ (must also do 80% & 90%)
+
+    Take input from the user to help create your design
+    Change the background color of the screen
+    Incorporate some randomness
+    Picture make sense (is organized)
+
+
+Do all in one python file

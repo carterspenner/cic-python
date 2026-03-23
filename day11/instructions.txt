@@ -1,0 +1,18 @@
+Objective: Learn how to create, access, and manipulate 2 dimensional arrays using the NumPy module in Python
+
+
+80% - B
+
+    Create a 10x10 2d array using numpy that is a multiplication table of the numbers 1 - 10
+    Print this array to the terminal
+
+90% - A
+
+    Use one of NumPy’s random distribution functions to fill up a 20x20 2d array with random integers between 1 and 100
+    Use nested for loops to calculate a running sum of all of the elements in the array
+    Print this sum to the terminal
+
+100% - A+
+
+    Use NumPy to filter out all elements in the above array that are divisible by 2 or 3
+    Print this new array to the terminal

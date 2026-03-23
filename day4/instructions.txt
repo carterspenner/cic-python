@@ -1,30 +1,29 @@
-Objective: Implement use of if statements
+Objective: Use lists and random numbers
 
 80% - B
 
-Ask the user for a temperature value
+A list of movies
 
-    Using an if statement, return 1 of 3 options (higher, lower, correct) based upon the temperature that is input.
-    Must use if, elif, else
+    Create a list with at least 6 movie titles - print
+    Add a movie to the list - print
+    Change the name of 1 movie - print
+    Remove a movie from the list - print
+    Sort the list - print
 
 
 90% - A
 
-Create and assign variables to hold a username and password of your choice.
+Create a magic 8 ball that answers any yes or no question from a list of possible answers.
 
-Take input from the user that checks to see if the username and password matches.
-
-    Username should not be case sensitive
-    Username should get rid of extra spaces
-    Password must match exactly
-    If username and password match correctly, print a statement that says login was successful
-    If username and password does not match correctly, print a statement that says login was unsuccessful
+    Create a list with at least 10 answers to yes or no questions.
+    Ask for user's name
+    Reply with "Hello (input name)"
+    Allow user to ask a yes or no question
+    Answer randomly with one of the answers from the list
 
 
-100% - A+
+100% - A+ (on your own)
 
-    Create a "choose your own outcome" that is at least 3 questions deep.
-    Each question and answer should lead to two new unique options.
+Give the user the option to ask another question or quit. This should continue until the user says "no".
 
-
-REMINDER: Include comments in your file that have author, date, purpose
+HINT: use a while loop

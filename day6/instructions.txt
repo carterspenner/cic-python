@@ -1,0 +1,27 @@
+Objective: Create and use functions
+All functions should have parameters (inputs) and a return value (output). Functions should not print to the terminal.
+
+80% - B
+
+    Area of a rectangle
+    Perimeter of a rectangle
+    Volume of a rectangular prism (a box)
+
+
+90% - A (must also do the above)
+
+    Circumference of a circle
+    Area of a circle
+    Volume of a sphere
+    Note: you can use 3.14 for pi
+
+
+100% - A+ (must also do the above)
+
+    Area of a trapezoid
+    Volume of a cylinder
+    Use python's value of pi in your circle functions
+    Round all answers to 2 decimal places
+
+
+Do all in one python file
