@@ -1,0 +1,30 @@
+Objective: Implement use of if statements
+
+80% - B
+
+Ask the user for a temperature value
+
+    Using an if statement, return 1 of 3 options (higher, lower, correct) based upon the temperature that is input.
+    Must use if, elif, else
+
+
+90% - A
+
+Create and assign variables to hold a username and password of your choice.
+
+Take input from the user that checks to see if the username and password matches.
+
+    Username should not be case sensitive
+    Username should get rid of extra spaces
+    Password must match exactly
+    If username and password match correctly, print a statement that says login was successful
+    If username and password does not match correctly, print a statement that says login was unsuccessful
+
+
+100% - A+
+
+    Create a "choose your own outcome" that is at least 3 questions deep.
+    Each question and answer should lead to two new unique options.
+
+
+REMINDER: Include comments in your file that have author, date, purpose
