@@ -1,0 +1,37 @@
+Objective: Implement use of strings and input
+
+80% - B
+
+ChatBot
+
+Lots of websites use chatbots to interact with their customers.  These chatbots are often very sophisticated and use AI to learn and adapt to the user.  Our chat bot is going to be a bit simpler.
+
+The chatbot should work like this:
+
+    Ask the user their name and store it in a variable.
+    Greet the user by name.
+    Ask the user three questions about themselves and store their responses in three different suitably named variables.
+    Respond to each of the questions one by one, using the user’s name in the response.
+    Output a summary of all of the user’s answers in a single sentence.
+
+
+90% - A
+
+Modifying Strings
+
+    Ask the user to input a word and store it in a variable
+    Print out the word with all the letters in upper case
+    Print out the word with all the letters in lower case
+    Using the replace method, print out the word after replacing one letter with another (for example, replace all a's with x's)
+    Using the slice method, print out the word without the first letter (for example, "string" would become "tring")
+
+
+100% - A+ (on your own)
+
+MadLibs
+
+    Ask the user for a variety of nouns, verbs, adjectives, etc. Once you have collected all of them, use them in a predetermined story and print it out.
+    Use the format method to print out your MadLib.
+    You may use AI to come up with a story for your MadLib.
+
+REMINDER: Include comments in your file that have author, date, purpose
