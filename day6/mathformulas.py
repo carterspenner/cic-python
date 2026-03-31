@@ -1,3 +1,9 @@
+"""
+Author: Carter Spenner
+Date: 3/30/2026
+Purpose: To practice using functions
+"""
+
 import math
 placeholder = "placeholder"
 
