@@ -1,0 +1,8 @@
+Word Count: 1484
+Line Count: 31
+Character Count: 10040
+Average Words Per Line: 47.87096774193548
+Top 3 Most Common Words:
+in: 31
+sed: 28
+ut: 27
